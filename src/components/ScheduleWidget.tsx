@@ -24,7 +24,7 @@ const ScheduleWidget = () => {
       script.setAttribute('session_type', 'private');
       script.setAttribute('show_additional_teachers', 'true');
       script.setAttribute('show_substituted_teachers', 'true');
-      script.setAttribute('tag_ids', '[157432]');
+      script.setAttribute('tag_ids', '[183772]');
       script.setAttribute('teacher_ids', '[]');
       script.setAttribute('default_filter', 'show-all');
       script.setAttribute('hide_tags', 'true');
